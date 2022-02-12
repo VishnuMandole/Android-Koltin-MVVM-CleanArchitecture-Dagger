@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="characterCardMarginTop">8dp</dimen>
+    <dimen name="characterCardMarginStart">8dp</dimen>
+    <dimen name="characterCardMarginEnd">8dp</dimen>
+
+    <dimen name="characterNameMarginTop">15dp</dimen>
+    <dimen name="characterNameMarginRight">15dp</dimen>
+    <dimen name="characterDescriptionMarginRight">15dp</dimen>
+    <dimen name="characterDescriptionMarginTop">15dp</dimen>
+
+
+    <dimen name="characterNamePaddingStart">2dp</dimen>
+    <dimen name="characterDescriptionPaddingStart">2dp</dimen>
+    <dimen name="characterDescriptionPaddingBottom">10dp</dimen>
+    <dimen name="characterNamePaddingBottom">10dp</dimen>
+</resources>
